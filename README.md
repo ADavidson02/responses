@@ -148,3 +148,4 @@ From here on out, all the work you do will be in your copy of this repository. O
 Each day's `README` will walk you through the steps you need to take to save your work.
 
 To start, in your terminal, `cd` into the `day_0` directory. Follow the instructions contained in the `readme.md` file, and have a great time!
+# responses
